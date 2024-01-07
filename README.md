@@ -1,7 +1,7 @@
 # Housing-Prices
 Welcome to the Housing Prices: Regression Analysis project! This respository houses a Python script that contains exploratory and regression techniques. The collected data from Kaggle and originally from Dean De Cock shows data about the residential home prices in Ames, Iowa.
 
-![Housing Prices: Regression Analysis Python Scripts](GithubPasser.jpeg)
+![Housing Prices: Regression Analysis Python Scripts](breno-assis-r3WAWU5Fi5Q-unsplash.jpg)
 
 
 ## Table of Contents

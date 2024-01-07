@@ -1,20 +1,12 @@
 # Housing-Prices
+Welcome to the Housing Prices: Regression Analysis project! This respository houses a Python script that contains exploratory and regression techniques. The collected data from Kaggle and originally from Dean De Cock shows data about the residential home prices in Ames, Iowa.
 
-
-# NFL-Stats
-Welcome to the NFL Passer Analysis Data Visualization project! This respository houses a couple Python scripts that retrieves up-to-date NFL statistics for quarterbacks from ESPN's website. The collected data is then seamlessly integrated into a Tableau dashboard for insightful visualization and analysis.
-
-![Tableau Passer Analysis Dashboard](GithubPasser.jpeg)
+![Housing Prices: Regression Analysis Python Scripts](GithubPasser.jpeg)
 
 
 ## Table of Contents
-- [Usage](#usage)
 - [Contact info](#contact)
 
-## Usage
-Visit to interact with updated stats in real-time: https://www.jakelender.com/tech-portfolio/passer-analysis
-
-Click on the player filters to choose which players compete for the top spots!
 
 ## Contact
 For questions or feedback, contact [Github](https://github.com/JacobLender) or [Portfolio](https://www.jakelender.com/aboutme)
